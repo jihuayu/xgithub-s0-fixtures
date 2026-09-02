@@ -1,0 +1,2 @@
+rename fixture baseline
+anchor text survives a path change
