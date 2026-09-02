@@ -1,0 +1,3 @@
+rename fixture baseline updated
+anchor text survives a path change
+the renamed file contains a synthetic review target
