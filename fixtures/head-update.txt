@@ -1,3 +1,4 @@
-head fixture baseline v1
-the first version is intentionally simple
-stable anchor candidate for initial review
+head fixture baseline v2
+the first version was intentionally simple
+the original anchor was deleted after the head update
+new unique anchor for remap verification
