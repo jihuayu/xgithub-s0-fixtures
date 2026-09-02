@@ -1,0 +1,12 @@
+synthetic fixture 1725
+line two for deterministic diff output
+line three for deterministic diff output
+line four for deterministic diff output
+line five for deterministic diff output
+line six for deterministic diff output
+line seven for deterministic diff output
+line eight for deterministic diff output
+line nine for deterministic diff output
+line ten for deterministic diff output
+line eleven for deterministic diff output
+line twelve for deterministic diff output
